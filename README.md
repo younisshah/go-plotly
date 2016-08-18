@@ -8,4 +8,5 @@ A Plotly client in Golang
 - [x] Create basic request types.
 - [x] Implement only __required__ Plotly args in the POST request.
 - [ ] Create a POST request to send Plotly Request to Plotly Servers.
+- [ ] Create a Go package for go-plotly.
 - [ ] Write documentation.
