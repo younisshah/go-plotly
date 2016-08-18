@@ -22,12 +22,12 @@ const (
 )
 
 type Request struct {
-	un       string // done
-	key      string // done
-	origin   string //done
-	platform string //done
-	kwargs   Kwargs // done
-	args     string // done
+	un       string
+	key      string
+	origin   string
+	platform string
+	kwargs   Kwargs
+	args     string
 }
 
 type Kwargs struct {
